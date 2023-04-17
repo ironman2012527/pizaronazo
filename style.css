@@ -1,0 +1,11 @@
+.bodybackground{
+background-image: url("1old.webp");
+background-position:center ;
+background-size: cover;
+}
+#mycanvas{
+border-style: dashed;
+border-width: 10px;
+border-color: blue;
+background-color: ghostwhite;
+}
